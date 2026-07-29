@@ -2,6 +2,10 @@
 
 A deep learning project developed in Python as part of a data science portfolio.
 
+## Why I built this project
+
+I built this project to strengthen my end-to-end computer-vision workflow, from image preprocessing and model design to evaluation and practical inference.
+
 ## Overview
 
 This repository demonstrates an end-to-end data science workflow, including exploration, preprocessing, modeling, and evaluation where applicable.
