@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.DS_Store
+desktop.ini
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Large artifacts
+*.safetensors
